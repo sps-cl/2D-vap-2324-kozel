@@ -1,0 +1,6 @@
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.csprojResolveAssemblyReference.cache
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.exe.config
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.exe
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.pdb
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.exe
+R:\PRG 2. ročník\VSC\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.pdb
